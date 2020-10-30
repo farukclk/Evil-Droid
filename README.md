@@ -6,6 +6,6 @@ Evil-Droid Framework  v0.3.1 <p>
 
 <div><code>git clone https://github.com/farukclk/Evil-Droid.git</code></div></p>
 <code>cd Evil-Droid</code></p>
-<code>bash evil-droid</code>
+<code>bash evil-droid</code></p>
 
 <img src="https://raw.githubusercontent.com/farukclk/Evil-Droid/main/evildroid.png">

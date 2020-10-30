@@ -1,2 +1,2 @@
-# Evild-Droid
-Evil-Droid Framework  v0.3
+# Evil-Droid
+Evil-Droid Framework  v0.3.1

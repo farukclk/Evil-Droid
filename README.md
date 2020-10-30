@@ -4,7 +4,7 @@ Evil-Droid Framework  v0.3.1 <p>
 
           HOW TO INSTALL
 
-<code>git clone <pre> https://github.com/farukclk/Evil-Droid.git</pre></code></p>
+<code>git clone https://github.com/farukclk/Evil-Droid.git</code></p>
 <code>cd Evil-Droid</code></p>
 <code>bash evil-droid</code>
 

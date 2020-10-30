@@ -1,6 +1,6 @@
 # Evil-Droid
 Evil-Droid Framework  v0.3.1 <p>
-<code>Author: Mascerano Bachir [ dev-labs ]</code>
+<code><a href="https://github.com/M4sc3r4n0">Author: Mascerano Bachir [ dev-labs ]</a></code>
 
           HOW TO INSTALL
 
